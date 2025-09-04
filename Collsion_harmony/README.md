@@ -1,6 +1,6 @@
 # Chord Collisions — Pad Edition
 
-A tiny **Processing** + **OscP5** playground where you **spawn note‑blobs** and **nudge** them with a movable pad. When two blobs touch, the game sends their **pitch classes** to **Max/MSP** for sonification. Eclectic, tactile, and handy for quick music‑education demos.
+A tiny **Processing** + **OscP5** playground where you **spawn note‑blobs** and **nudge** them with a movable pad. When two blobs touch, the game sends their **pitch classes** to **Max/MSP** for sonification.
 
 ## Requirements
 - Processing (Java mode)
